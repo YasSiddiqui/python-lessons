@@ -1,2 +1,3 @@
 # python-lessons
-Learning python
+Learning python on Udacity
+"Programming foundations on python"
